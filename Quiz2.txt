@@ -1,0 +1,6 @@
+Observation:
+	The raspberry pi is functional because of the ff:
+	*there was an operating system installed in it already
+	*the cables & wires are also functional that's why there is a continuous flow of electricity
+	*correct voltage & source
+	*correct connection with the devices

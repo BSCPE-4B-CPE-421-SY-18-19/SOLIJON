@@ -1,0 +1,12 @@
+OBSERVATION:
+	-The monitor won't turn on.
+	-The computer turns on for a few seconds.
+	-There's a bloated capacitor in the power.
+	-The fuse in the power supply is bloated.
+	-The fans attached in the system works well.
+	-The LED on the motherboard always light up when it is plugged in.
+
+Possible Solution/s:
+	-Since the capacitor in the power supply is bloated, it has to be replace.
+	-Also the fuse is bloated it has to be replace.
+	-We think that the power supply is the problem, so we concluded that we have to replace the power supply with a new one with the same specifications.
